@@ -1,0 +1,21 @@
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\bin\Debug\Card Deck.exe.config
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\bin\Debug\Card Deck.exe
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\bin\Debug\Card Deck.pdb
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\obj\Debug\Card Deck.csprojResolveAssemblyReference.cache
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\obj\Debug\Card Deck.csproj.CoreCompileInputs.cache
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\obj\Debug\Card Deck.exe
+\\iam.local\isilon\user\Calvin.Oh\Visual Studio 2017\Projects\Card Deck\Card Deck\obj\Debug\Card Deck.pdb
+Z:\Card Deck\Card Deck\bin\Debug\Card Deck.exe.config
+Z:\Card Deck\Card Deck\bin\Debug\Card Deck.exe
+Z:\Card Deck\Card Deck\bin\Debug\Card Deck.pdb
+Z:\Card Deck\Card Deck\obj\Debug\Card Deck.csprojResolveAssemblyReference.cache
+Z:\Card Deck\Card Deck\obj\Debug\Card Deck.csproj.CoreCompileInputs.cache
+Z:\Card Deck\Card Deck\obj\Debug\Card Deck.exe
+Z:\Card Deck\Card Deck\obj\Debug\Card Deck.pdb
+C:\workspace\Card Deck\Card Deck\bin\Debug\Card Deck.exe.config
+C:\workspace\Card Deck\Card Deck\bin\Debug\Card Deck.exe
+C:\workspace\Card Deck\Card Deck\bin\Debug\Card Deck.pdb
+C:\workspace\Card Deck\Card Deck\obj\Debug\Card Deck.csprojResolveAssemblyReference.cache
+C:\workspace\Card Deck\Card Deck\obj\Debug\Card Deck.csproj.CoreCompileInputs.cache
+C:\workspace\Card Deck\Card Deck\obj\Debug\Card Deck.exe
+C:\workspace\Card Deck\Card Deck\obj\Debug\Card Deck.pdb
